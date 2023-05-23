@@ -5,7 +5,6 @@ import sys
 HOST = 'localhost'
 PORT = 4242
 clients = []
-clients_ = []
 
 while True:
     try:
